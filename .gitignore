@@ -103,6 +103,10 @@ GitHub.sublime-settings
 CYP*/
 *.txt
 *.csv
+!CSVFiles/TanimotoCSV_Final/Clusters_Max_TC/*
+!CSVFiles/TanimotoCSV_Final/Analog_Clusters/*
+!CSVFiles/TanimotoCSV_Final/Results_CSV/*/*
+!CSVFiles/TanimotoCSV_Final/80TC_TESTSETS/*
 Get_TS.py
 Get_molcule_number_from_sdf.py
 Generate_Discriptors*
@@ -111,3 +115,4 @@ CSVFiles/AllCSVs/
 CSVFiles/TanimotoCSV_Final/Sep*
 CSVFiles/TanimotoCSV_Final/Aug*
 CSVFiles/TanimotoCSV_Final/Jul*
+
