@@ -27,6 +27,7 @@
       <excludeFolder url="file://$MODULE_DIR$/CSVFiles/TanimotoCSV_Final/Aug_18_testFigures" />
       <excludeFolder url="file://$MODULE_DIR$/CSVFiles/TanimotoCSV_Final/Aug_18_testModels" />
       <excludeFolder url="file://$MODULE_DIR$/CSVFiles/TanimotoCSV_Final/July16_XGB_MaxTCModels" />
+      <excludeFolder url="file://$MODULE_DIR$/CSVFiles/TanimotoCSV_Final/Results_CSV" />
       <excludeFolder url="file://$MODULE_DIR$/CSVFiles/TanimotoCSV_Final/Sep1_XGB_analogFigures" />
       <excludeFolder url="file://$MODULE_DIR$/CSVFiles/TanimotoCSV_Final/Sep5_AllmodelsFigures" />
       <excludeFolder url="file://$MODULE_DIR$/CYP_Threshold_test_data" />
