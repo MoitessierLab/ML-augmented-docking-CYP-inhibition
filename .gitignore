@@ -99,13 +99,12 @@ GitHub.sublime-settings
 .history
 
 # Project specific files
-
 CYP*/
 *.txt
 *.csv
 !CSVFiles/TanimotoCSV_Final/Clusters_Max_TC/*
 !CSVFiles/TanimotoCSV_Final/Analog_Clusters/*
-!CSVFiles/TanimotoCSV_Final/Results_CSV/*/*
+!CSVFiles/TanimotoCSV_Final/Results_CSV_ZIPPED/*/*
 !CSVFiles/TanimotoCSV_Final/80TC_TESTSETS/*
 Get_TS.py
 Get_molcule_number_from_sdf.py
@@ -116,3 +115,20 @@ CSVFiles/TanimotoCSV_Final/Sep*
 CSVFiles/TanimotoCSV_Final/Aug*
 CSVFiles/TanimotoCSV_Final/Jul*
 
+/CSVFiles/TanimotoCSV_Final/Results_CSV/
+/CSVFiles/TanimotoCSV_Final/Results_CSV/1A2/
+/CSVFiles/TanimotoCSV_Final/Results_CSV/1A2/1A2-docked-actives-scored.csv
+/CSVFiles/TanimotoCSV_Final/Results_CSV/1A2/1A2-docked-inactives-scored.csv
+/CSVFiles/TanimotoCSV_Final/Results_CSV/2C9/
+/CSVFiles/TanimotoCSV_Final/Results_CSV/2C9/2C9-docked-actives-scored.csv
+/CSVFiles/TanimotoCSV_Final/Results_CSV/2C9/2C9-docked-inactives-scored.csv
+/CSVFiles/TanimotoCSV_Final/Results_CSV/2C19/
+/CSVFiles/TanimotoCSV_Final/Results_CSV/2C19/2C19-docked-actives-scored.csv
+/CSVFiles/TanimotoCSV_Final/Results_CSV/2C19/2C19-docked-inactives-scored.csv
+/CSVFiles/TanimotoCSV_Final/Results_CSV/2D6/
+/CSVFiles/TanimotoCSV_Final/Results_CSV/2D6/2D6-docked-actives-scored.csv
+/CSVFiles/TanimotoCSV_Final/Results_CSV/2D6/2D6-docked-inactives-scored.csv
+/CSVFiles/TanimotoCSV_Final/Results_CSV/3A4/
+/CSVFiles/TanimotoCSV_Final/Results_CSV/3A4/3A4-docked-actives-scored.csv
+/CSVFiles/TanimotoCSV_Final/Results_CSV/3A4/3A4-docked-inactives-scored.csv
+/CSVFiles/TanimotoCSV_Final/Results_CSV/
