@@ -101,10 +101,10 @@ SETTINGS:
 '''
 
 select_folder = 'alldata'
-run_save_df = 1
-load_df = 1
+run_save_df = 0
+load_df = 0
 run_ensemble = 0
-load_ensemble = 0
+load_ensemble = 1
 ##################### END OF USER INPUTS #####################
 
 pm = {'dir': '/home/weiser/PYTHON/EnsembleLearning/CSVFiles/TanimotoCSV_Final'}

@@ -1,14 +1,11 @@
 
 # ML-augmented-docking-CYP-inhibition
 Code repository for Machine Learning-Augmented Docking. 1. CYP inhibition prediction. Authors: Benjamin Weiser, Jérôme Genzling , Mihai Burai Patrascu,  Ophélie Rostain and Nicolas Moitessier
+![CYPworkflow-GRCsep7(2).png](CYPworkflow-GRCsep7%282%29.png)
 
-![CYPworkflow-GRCsep7(2).png](..%2F..%2FDownloads%2FCYPworkflow-GRCsep7%282%29.png)
-
-=======
 # ML-augmented-docking-CYP-inhibition
 Code repository for Machine Learning-Augmented Docking. 1. CYP inhibition prediction. Authors: Benjamin Weiser, Jérôme Genzling , Mihai Burai Patrascu,  Ophélie Rostain and Nicolas Moitessier
 
->>>>>>> origin/main
 # Code Workflow Procedure
 1. Cleaned and combined test and train Pei sets with CYP\_clean\_files.ipnyb. Sets combined and then clustered to create new train and test sets
 2. Dock each ligand 5 times to its respective isoform using FITTED. Docked data can be found here: (to be inserted)
