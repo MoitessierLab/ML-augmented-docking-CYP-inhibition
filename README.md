@@ -28,10 +28,9 @@ Analog is model trained using the anolog datasets shown in figure 9
 Results_CSV_ZIPPED contains all docked data used To implement into the workflow for replication unzip into /EnsembleLearning/CSVFiles/TanimotoCSV_Final/Results_CSV
 
 # Datasets
-in CSVFiles/TanimotoCSV_Final: 
+In CSVFiles/TanimotoCSV_Final: 
 80TC_TESTSETS contains the test sets for MaxTC
 Analog_Clusters contains all the data for the analog sets
 Clusters_Max_TC contains all the MaxTC clusters
 Smiles contains all the original smiles of the Pei sets
-=======
->>>>>>> origin/main
+
