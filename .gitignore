@@ -99,10 +99,15 @@ GitHub.sublime-settings
 .history
 
 # Project specific files
-CSVFiles/
+
 CYP*/
 *.txt
 *.csv
 Get_TS.py
 Get_molcule_number_from_sdf.py
 Generate_Discriptors*
+EnsembleLearning/
+CSVFiles/AllCSVs/
+CSVFiles/TanimotoCSV_Final/Sep*
+CSVFiles/TanimotoCSV_Final/Aug*
+CSVFiles/TanimotoCSV_Final/Jul*
